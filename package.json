@@ -1,6 +1,6 @@
 {
   "name": "ngx-joyride-ng20",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Agular library for ngx-joyride with anglar 20 support",
   "scripts": {
     "ng": "ng",
